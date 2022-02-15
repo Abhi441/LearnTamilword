@@ -1,5 +1,9 @@
 Today - Indru.
-Yestardat - Netru.
+
+Yestarday - Netru.
+
 Tomorrow - Naalai.
+
 clock - Kadigram.
+
 No/Not - ILLA.
